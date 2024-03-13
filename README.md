@@ -5,7 +5,7 @@ Foram testados alguns dos serviços relacionados no Azure Vision Studio. Algumas
 
 Detecte a localização de um ou mais rostos humanos em imagens, juntamente com atributos como pose, máscara facial e pontos de referência faciais.
 
-| Imagem                                      | Atributos Detectados                                  | JSON                                    |
+| Imagem                                      | Resultado                                 | JSON                                    |
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | ![Imagem](Input/image1.jpg)         | [Atributos Detectados](Output/detectedAtributesImage1.txt)         | [JSON](Output/detectedAtributesImage1.json)         |
 | ![Imagem](Input/image2.jpg)         | [Atributos Detectados](Output/detectedAtributesImage2.txt)         | [JSON](Output/detectedAtributesImage2.json)         |
