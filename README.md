@@ -49,6 +49,7 @@ Use the Read API to extract printed and handwritten text in supported languages 
 
 [Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
 
+
 _______________________________________________________________________________________________________________________________________
 ### Versão em Português
 
