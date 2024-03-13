@@ -4,7 +4,9 @@
 - [English](#Introduction)
 - [Português](#Introdução)
 
+
 ### English Version
+
 
 ## Introduction
 We tested some of the related services in Azure Vision Studio. Some images were used to generate the result according to the tables shown in each functionality test.
@@ -47,7 +49,9 @@ Use the Read API to extract printed and handwritten text in supported languages 
 
 [Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
 
+
 ### Versão em Português
+
 
 ## Introdução
 Foram testados alguns dos serviços relacionados no Azure Vision Studio. Algumas imagens foram utilizadas para gerar o resultado conforme as tabelas mostradas em cada teste de funcionalidade.
