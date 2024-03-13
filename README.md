@@ -1,5 +1,5 @@
 # azure-ai-service-vision-studio-demo
-Teste de funcionalidades do Azure Vision Studio
+Foram testados alguns dos serviços relacionados no Azure Vision Studio. Algumas imagens foram utilizadas para gerar o resultado conforme as tabelas mostradas em cada teste de funcionalidade.
 
 ## FACE
 
