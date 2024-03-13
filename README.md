@@ -18,8 +18,8 @@ Gere uma frase legível que descreva o conteúdo de uma imagem.
 | Imagem                                      | Atributos Detectados                                  | JSON                                    |
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | ![Imagem 1](Input/image4.jpg)         | [Atributos Detectados](Output/detectedAtributesImage4.txt)         | [JSON](Output/detectedAtributesImage4.json)         |
-| ![Imagem 2](Input/image5.jpg)         | [Atributos Detectados](Output/detectedAtributesImage5.txt)         | [JSON](Output/detectedAtributesImage5.json)         |
-| ![Imagem 3](Input/image6.jpg)         | [Atributos Detectados](Output/detectedAtributesImage6.txt)         | [JSON](Output/detectedAtributesImage6.json)         |
+| ![Imagem 2](Input/image5.jpeg)         | [Atributos Detectados](Output/detectedAtributesImage5.txt)         | [JSON](Output/detectedAtributesImage5.json)         |
+| ![Imagem 3](Input/image6.jpeg)         | [Atributos Detectados](Output/detectedAtributesImage6.txt)         | [JSON](Output/detectedAtributesImage6.json)         |
 
 ## OCR (Optical Character Recognition)
 
