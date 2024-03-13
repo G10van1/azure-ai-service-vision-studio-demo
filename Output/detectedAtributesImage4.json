@@ -1,0 +1,15 @@
+
+{
+  "apim-request-id": "58d4e643-4a91-4727-8151-87c0bc24c9f3",
+  "content-length": "153",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a cartoon of a pirate ship",
+    "confidence": 0.7729599475860596
+  },
+  "metadata": {
+    "width": 287,
+    "height": 175
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "4fde3f9f-a597-40c9-b6bb-789243c41c3d",
+  "content-length": "166",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a pineapple with sunglasses on the beach",
+    "confidence": 0.853374719619751
+  },
+  "metadata": {
+    "width": 275,
+    "height": 183
+  }
+}

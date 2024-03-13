@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "1734b0fd-80d5-4b1e-b9e5-68101f7d9772",
+  "content-length": "153",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a football ball on a field",
+    "confidence": 0.6975172162055969
+  },
+  "metadata": {
+    "width": 290,
+    "height": 174
+  }
+}
