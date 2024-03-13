@@ -7,9 +7,9 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 | Imagem                                      | Atributos Detectados                                  | JSON                                    |
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| ![Imagem 1](Input/image1.jpg)         | [Atributos Detectados](Output/detectedAtributesImage1.txt)         | [JSON](Output/detectedAtributesImage1.json)         |
-| ![Imagem 2](Input/image2.jpg)         | [Atributos Detectados](Output/detectedAtributesImage2.txt)         | [JSON](Output/detectedAtributesImage2.json)         |
-| ![Imagem 3](Input/image3.jpg)         | [Atributos Detectados](Output/detectedAtributesImage3.txt)         | [JSON](Output/detectedAtributesImage3.json)         |
+| ![Imagem](Input/image1.jpg)         | [Atributos Detectados](Output/detectedAtributesImage1.txt)         | [JSON](Output/detectedAtributesImage1.json)         |
+| ![Imagem](Input/image2.jpg)         | [Atributos Detectados](Output/detectedAtributesImage2.txt)         | [JSON](Output/detectedAtributesImage2.json)         |
+| ![Imagem](Input/image3.jpg)         | [Atributos Detectados](Output/detectedAtributesImage3.txt)         | [JSON](Output/detectedAtributesImage3.json)         |
 
 ## Análise de Imagem - Adicione legendas às imagens
 
@@ -17,9 +17,9 @@ Gere uma frase legível que descreva o conteúdo de uma imagem.
 
 | Imagem                                      | Atributos Detectados                                  | JSON                                    |
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| ![Imagem 1](Input/image4.jpg)         | [Atributos Detectados](Output/detectedAtributesImage4.txt)         | [JSON](Output/detectedAtributesImage4.json)         |
-| ![Imagem 2](Input/image5.jpeg)         | [Atributos Detectados](Output/detectedAtributesImage5.txt)         | [JSON](Output/detectedAtributesImage5.json)         |
-| ![Imagem 3](Input/image6.jpeg)         | [Atributos Detectados](Output/detectedAtributesImage6.txt)         | [JSON](Output/detectedAtributesImage6.json)         |
+| ![Imagem](Input/image4.jpg)         | [Atributos Detectados](Output/detectedAtributesImage4.txt)         | [JSON](Output/detectedAtributesImage4.json)         |
+| ![Imagem](Input/image5.jpeg)         | [Atributos Detectados](Output/detectedAtributesImage5.txt)         | [JSON](Output/detectedAtributesImage5.json)         |
+| ![Imagem](Input/image6.jpeg)         | [Atributos Detectados](Output/detectedAtributesImage6.txt)         | [JSON](Output/detectedAtributesImage6.json)         |
 
 ## OCR (Optical Character Recognition)
 
@@ -27,6 +27,12 @@ Use a API Read para extrair texto impresso e manuscrito em idiomas suportados de
 
 | Imagem                                      | Atributos Detectados                                  | JSON                                    |
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| ![Imagem 1](Input/image7.jpg)         | [Atributos Detectados](Output/detectedAtributesImage7.txt)         | [JSON](Output/detectedAtributesImage7.json)         |
-| ![Imagem 2](Input/image8.jpg)         | [Atributos Detectados](Output/detectedAtributesImage8.txt)         | [JSON](Output/detectedAtributesImage8.json)         |
-| ![Imagem 3](Input/image9.jpg)         | [Atributos Detectados](Output/detectedAtributesImage9.txt)         | [JSON](Output/detectedAtributesImage9.json)         |
+| ![Imagem](Input/image7.jpg)         | [Atributos Detectados](Output/detectedAtributesImage7.txt)         | [JSON](Output/detectedAtributesImage7.json)         |
+| ![Imagem](Input/image8.jpg)         | [Atributos Detectados](Output/detectedAtributesImage8.txt)         | [JSON](Output/detectedAtributesImage8.json)         |
+| ![Imagem](Input/image9.jpg)         | [Atributos Detectados](Output/detectedAtributesImage9.txt)         | [JSON](Output/detectedAtributesImage9.json)         |
+
+## Referências
+
+[Detect faces in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html)
+[Read text in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
+[Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
