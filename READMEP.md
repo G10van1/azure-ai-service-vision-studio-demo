@@ -1,4 +1,4 @@
-[\[English\]](README.md)[\[Português\]](#Introdução)
+[\[English\]](README.md) [\[Português\]](#Introdução)
 _______________________________________________________________________________________________________________________________________
 ## Introdução
 Foram testados alguns dos serviços relacionados no Azure Vision Studio. Algumas imagens foram utilizadas para gerar o resultado conforme as tabelas mostradas em cada teste de funcionalidade.
