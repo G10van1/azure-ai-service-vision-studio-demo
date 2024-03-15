@@ -1,12 +1,5 @@
-# azure-ai-service-vision-studio-demo
-
-## Escolha o Idioma / Choose Language
-- [English](#Introduction)
-- [Português](#Introdução)
+[English](#Introduction)[Português](#READMEP.md)
 _______________________________________________________________________________________________________________________________________
-### English Version
-
-
 ## Introduction
 We tested some of the related services in Azure Vision Studio. Some images were used to generate the result according to the tables shown in each functionality test.
 
