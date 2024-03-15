@@ -1,4 +1,4 @@
-[\[English\]](#Introduction) [\[Português\]](#READMEP.md)
+[\[English\]](#Introduction) [\[Português\]](READMEP.md)
 _______________________________________________________________________________________________________________________________________
 ## Introduction
 We tested some of the related services in Azure Vision Studio. Some images were used to generate the result according to the tables shown in each functionality test.
