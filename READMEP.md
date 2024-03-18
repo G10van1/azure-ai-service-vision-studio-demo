@@ -7,7 +7,7 @@ Foram testados alguns dos serviços relacionados no Azure Vision Studio. Algumas
 
 Detecte a localização de um ou mais rostos humanos em imagens, juntamente com atributos como pose, máscara facial e pontos de referência faciais.
 
-| Image                                      | Result                                 | JSON                                    |
+| Imagem                                      | Resultado                                 | JSON                                    |
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | ![Image](Input/image1.jpg) | Face #1<br>Face mask: no<br><br>[Arquivo](Output/detectedAtributesImage1.txt) | [JSON](Output/detectedAtributesImage1.json) |
 | ![Image](Input/image2.jpg) | Face #1<br>Face mask: no<br>Face #2<br>Face mask: no<br>Face #3<br>Face mask: no<br><br>[Arquivo](Output/detectedAtributesImage2.txt) | [JSON](Output/detectedAtributesImage2.json) |
@@ -17,7 +17,7 @@ Detecte a localização de um ou mais rostos humanos em imagens, juntamente com 
 
 Gere uma frase legível que descreva o conteúdo de uma imagem.
 
-| Image                                      | Result                                  | JSON                                    |
+| Imagem                                      | Resultado                                 | JSON                                    |
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | ![Image](Input/image4.jpg)  | A cartoon of a pirate ship<br><br>[Arquivo](Output/detectedAtributesImage4.txt) | [JSON](Output/detectedAtributesImage4.json) |
 | ![Image](Input/image5.jpeg) | A pineapple with sunglasses on the beach<br><br>[Arquivo](Output/detectedAtributesImage5.txt) | [JSON](Output/detectedAtributesImage5.json) |
@@ -27,7 +27,7 @@ Gere uma frase legível que descreva o conteúdo de uma imagem.
 
 Use a API Read para extrair texto impresso e manuscrito em idiomas suportados de imagens, PDFs e arquivos TIFF. O recurso de reconhecimento óptico de caracteres (OCR) oferece suporte a imagens e documentos com idiomas mistos e não exige a especificação do idioma.
 
-| Image                                      | Result                                  | JSON                                    |
+| Imagem                                      | Resultado                                 | JSON                                    |
 |---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | ![Image](Input/image7.jpg) | quesome<br>ALUGA-SE<br>ESTELOTE<br>396m<br>2<br>TRATARC/OPROP.<br>992<br>2001<br>62<br>UNBELIEVABLE<br><br>[Arquivo](Output/detectedAtributesImage7.txt) | [JSON](Output/detectedAtributesImage7.json) |
 | ![Image](Input/image8.jpg) | CDV-2172<br><br>[Arquivo](Output/detectedAtributesImage8.txt) | [JSON](Output/detectedAtributesImage8.json) |
